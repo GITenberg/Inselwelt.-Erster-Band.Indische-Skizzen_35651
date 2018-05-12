@@ -1,0 +1,35 @@
+_repo: Inselwelt.-Erster-Band.Indische-Skizzen_35651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstacker, Friedrich
+    - Gerstaecker, Frederick
+    - Gerstäcker, Friedrich Wilhelm Christian
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35651'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Pacific Area -- Fiction'
+- !lcsh 'Adventure stories, German'
+tableOfContents: 'In der Südsee: Der Wallfischfänger. Die Bootsmannschaft. Der Schooner
+  -- Im Ostindischen Archipel: Der Balinese. Der Menschentiger. Der Khris.'
+title: Inselwelt. Erster Band. Indische Skizzen
+url: http://www.gutenberg.org/ebooks/35651
